@@ -1,0 +1,57 @@
+[ 2019-11-20T19:16:55+08:00 ] 127.0.0.1 /index.php/Admin/Cate/cateDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000583s ]
+SQL: SHOW COLUMNS FROM `category` [ RunTime:0.0548s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `category` WHERE `pid` = 6  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `category` WHERE `pid` = 14  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `category` WHERE `pid` = 15  [ RunTime:0.0002s ]
+
+[ 2019-11-20T19:17:47+08:00 ] 127.0.0.1 /index.php/Admin/Cate/cateDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001841s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002693s ]
+SQL: SHOW COLUMNS FROM `category` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `category` WHERE `pid` = 2  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `category` WHERE `pid` = 6  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `category` WHERE `pid` = 14  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `category` WHERE `pid` = 15  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `category` WHERE `pid` = 7  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `category` WHERE `pid` = 16  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `category` WHERE `pid` = 17  [ RunTime:0.0002s ]
+
+[ 2019-11-20T19:19:21+08:00 ] 127.0.0.1 /index.php/Admin/Cate/cateDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000945s ]
+SQL: SHOW COLUMNS FROM `category` [ RunTime:0.0265s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `category` WHERE `pid` = 2  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `category` WHERE `pid` = 6  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `category` WHERE `pid` = 14  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `category` WHERE `pid` = 15  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `category` WHERE `pid` = 7  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `category` WHERE `pid` = 16  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `category` WHERE `pid` = 17  [ RunTime:0.0002s ]
+
+[ 2019-11-20T19:20:20+08:00 ] 127.0.0.1 /index.php/Admin/Cate/cateDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001084s ]
+SQL: SHOW COLUMNS FROM `category` [ RunTime:0.0217s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0114s ]
+SQL: SELECT * FROM `category` WHERE `pid` = 7  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `category` WHERE `pid` = 16  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `category` WHERE `pid` = 17  [ RunTime:0.0003s ]
+
+[ 2019-11-20T19:20:34+08:00 ] 127.0.0.1 /index.php/Admin/Cate/cateDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+SQL: SHOW COLUMNS FROM `category` [ RunTime:0.0252s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0197s ]
+SQL: SELECT * FROM `category` WHERE `pid` = 16  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `goods` WHERE `cate_id` = 16 LIMIT 1   [ RunTime:0.0003s ]
+

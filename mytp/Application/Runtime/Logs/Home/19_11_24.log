@@ -1,0 +1,28 @@
+[ 2019-11-24T14:31:23+08:00 ] 127.0.0.1 /index.php/Index/ajaxLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000922s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0206s ]
+SQL: SELECT * FROM `user` LIMIT 1   [ RunTime:0.0144s ]
+
+[ 2019-11-24T17:29:52+08:00 ] 127.0.0.1 /index.php/Order/order.html?uid=38
+ERR: syntax error, unexpected '$this' (T_VARIABLE)
+
+[ 2019-11-24T21:51:38+08:00 ] 127.0.0.1 /index.php/Goods/cart.html
+ERR: syntax error, unexpected '"]); ?>"' (T_CONSTANT_ENCAPSED_STRING)
+
+[ 2019-11-24T21:52:15+08:00 ] 127.0.0.1 /index.php/Goods/cart.html
+ERR: syntax error, unexpected '"]); ?>"' (T_CONSTANT_ENCAPSED_STRING)
+
+[ 2019-11-24T21:52:44+08:00 ] 127.0.0.1 /index.php/Goods/cart.html
+ERR: syntax error, unexpected '"]); ?>"' (T_CONSTANT_ENCAPSED_STRING)
+
+[ 2019-11-24T21:52:47+08:00 ] 127.0.0.1 /index.php/Goods/cart.html
+ERR: syntax error, unexpected '"]); ?>"' (T_CONSTANT_ENCAPSED_STRING)
+
+[ 2019-11-24T22:57:42+08:00 ] 127.0.0.1 /index.php/Order/order.html?uid=38&gid=20
+ERR: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+
+[ 2019-11-24T23:07:14+08:00 ] 127.0.0.1 /index.php/Order/order.html?uid=38&gid=20
+ERR: Think\Model:value方法不存在！
+

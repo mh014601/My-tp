@@ -1,0 +1,480 @@
+[ 2019-11-13T00:00:31+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Call to a member function links() on null
+
+[ 2019-11-13T00:05:39+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Call to a member function links() on null
+
+[ 2019-11-13T00:14:52+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected '}', expecting ',' or ';'
+
+[ 2019-11-13T00:16:44+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected '}', expecting ',' or ';'
+
+[ 2019-11-13T00:18:03+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected '}', expecting ',' or ';'
+
+[ 2019-11-13T00:18:32+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected '}', expecting ',' or ';'
+
+[ 2019-11-13T00:19:56+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected '}', expecting ',' or ';'
+
+[ 2019-11-13T00:20:25+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Call to a member function links() on null
+
+[ 2019-11-13T08:57:27+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Call to a member function links() on null
+
+[ 2019-11-13T09:01:47+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'json' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T09:37:47+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Think\Model:first方法不存在！
+
+[ 2019-11-13T09:37:49+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Think\Model:first方法不存在！
+
+[ 2019-11-13T09:38:18+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:38:20+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:38:21+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:38:22+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:38:23+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:38:24+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:38:25+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:38:26+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:38:27+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:38:28+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:38:29+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:38:30+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:38:31+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:39:00+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:39:01+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:39:02+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:39:03+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:39:04+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:39:05+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:39:06+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:39:08+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:39:11+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:42:03+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:42:04+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:42:05+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:42:06+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:42:07+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:42:25+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:42:51+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: 1054:Unknown column 'uname' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `manager` WHERE ( uname ) 
+
+[ 2019-11-13T09:44:49+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Think\Model:paginate方法不存在！
+
+[ 2019-11-13T09:44:50+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Think\Model:paginate方法不存在！
+
+[ 2019-11-13T09:44:51+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Think\Model:paginate方法不存在！
+
+[ 2019-11-13T10:18:24+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'json' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T10:18:25+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'json' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T10:18:28+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'json' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T10:18:29+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'json' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T10:18:30+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'json' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T10:18:35+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'json' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T10:34:32+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'json' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T10:35:26+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T10:35:27+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T10:36:55+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T10:36:56+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T10:38:24+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T10:39:12+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T10:39:13+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T10:48:40+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T10:52:35+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T10:52:36+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T10:52:38+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T10:52:39+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T10:52:40+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T10:52:41+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T10:52:44+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T11:00:04+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T11:03:01+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T11:03:02+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T11:04:22+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T11:06:21+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T11:06:28+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T11:07:10+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T11:12:34+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T11:12:35+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T11:12:36+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T11:23:09+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T11:23:10+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T11:25:40+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T11:25:41+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T11:25:42+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T11:25:43+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T11:25:44+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T11:25:45+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T11:25:46+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T11:25:47+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T11:25:49+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T11:25:50+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T11:26:11+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T11:29:43+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T11:35:20+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T11:37:01+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: syntax error, unexpected 'tbody' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-13T11:53:34+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Call to a member function links() on array
+
+[ 2019-11-13T11:54:51+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Call to a member function links() on array
+
+[ 2019-11-13T11:54:52+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Call to a member function links() on array
+
+[ 2019-11-13T11:54:53+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Call to a member function links() on array
+
+[ 2019-11-13T11:54:54+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Call to a member function links() on array
+
+[ 2019-11-13T11:54:55+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Call to a member function links() on array
+
+[ 2019-11-13T11:54:56+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Call to a member function links() on array
+
+[ 2019-11-13T11:54:57+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Call to a member function links() on array
+
+[ 2019-11-13T11:54:58+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Call to a member function links() on array
+
+[ 2019-11-13T11:54:59+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Call to a member function links() on array
+
+[ 2019-11-13T11:55:00+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Call to a member function links() on array
+
+[ 2019-11-13T11:55:58+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Call to a member function links() on array
+
+[ 2019-11-13T12:02:36+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Call to a member function links() on array
+
+[ 2019-11-13T12:03:09+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Call to a member function links() on array
+
+[ 2019-11-13T12:03:10+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Call to a member function links() on array
+
+[ 2019-11-13T12:03:11+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Call to a member function links() on array
+
+[ 2019-11-13T12:03:12+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Call to a member function links() on array
+
+[ 2019-11-13T12:03:34+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Call to a member function links() on array
+
+[ 2019-11-13T12:03:35+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html
+ERR: Call to a member function links() on array
+
+[ 2019-11-13T12:03:40+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerList.html?keyword=
+ERR: Call to a member function links() on array
+
+[ 2019-11-13T14:02:51+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000754s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.0268s ]
+ERR: Method name must be a string
+
+[ 2019-11-13T14:04:28+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000628s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.0076s ]
+ERR: Method name must be a string
+
+[ 2019-11-13T14:08:12+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.0286s ]
+ERR: Method name must be a string
+
+[ 2019-11-13T14:08:59+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000747s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.0162s ]
+ERR: Method name must be a string
+
+[ 2019-11-13T14:10:06+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.0167s ]
+ERR: Method name must be a string
+
+[ 2019-11-13T14:12:06+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003022s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.0177s ]
+ERR: Method name must be a string
+
+[ 2019-11-13T14:15:55+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000601s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.0136s ]
+ERR: Method name must be a string
+
+[ 2019-11-13T14:16:22+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000613s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.0068s ]
+ERR: Method name must be a string
+
+[ 2019-11-13T14:18:02+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000607s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.0510s ]
+SQL: DELETE FROM `manager` WHERE `id` = 14 [ RunTime:0.0145s ]
+
+[ 2019-11-13T14:19:55+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerEdit.html?id=17
+ERR: 模板不存在:./Application/Admin/View/Manager/managerEdit.html
+
+[ 2019-11-13T17:23:50+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerEditAction.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `manager` SET `status`='2',`admin_name`='admin' WHERE ( id= )
+
+[ 2019-11-13T19:09:13+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerAdd.html
+ERR: syntax error, unexpected '<'
+
+[ 2019-11-13T19:10:31+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerAdd.html
+ERR: syntax error, unexpected '<'
+
+[ 2019-11-13T19:12:00+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerAdd.html
+ERR: syntax error, unexpected '<'
+
+[ 2019-11-13T19:12:45+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerAdd.html
+ERR: syntax error, unexpected '<'
+
+[ 2019-11-13T19:16:51+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerAdd.html
+ERR: syntax error, unexpected '<'
+
+[ 2019-11-13T19:22:36+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerAdd.html
+ERR: syntax error, unexpected '<'
+
+[ 2019-11-13T19:22:38+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerAdd.html
+ERR: syntax error, unexpected '<'
+
+[ 2019-11-13T19:53:06+08:00 ] 127.0.0.1 /index.php/Admin/Manager/managerAddAction.html
+ERR: Too few arguments to function redirect(), 0 passed in D:\myTp\mytp\Application\Admin\Controller\ManagerController.class.php on line 88 and at least 1 expected
+
+[ 2019-11-13T22:03:15+08:00 ] 127.0.0.1 /index.php/Admin/Manager/ajax_checkName.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000817s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.0593s ]
+SQL: SELECT * FROM `manager` WHERE `admin_name` = 'admin' LIMIT 1   [ RunTime:0.0081s ]
+
+[ 2019-11-13T22:03:20+08:00 ] 127.0.0.1 /index.php/Admin/Manager/ajax_checkName.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `manager` WHERE `admin_name` = 'admin1' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2019-11-13T22:03:27+08:00 ] 127.0.0.1 /index.php/Admin/Manager/ajax_checkName.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000600s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.0114s ]
+SQL: SELECT * FROM `manager` WHERE `admin_name` = 'admin' LIMIT 1   [ RunTime:0.0004s ]
+

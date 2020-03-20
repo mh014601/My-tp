@@ -1,0 +1,422 @@
+[ 2019-11-27T09:48:00+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000825s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0422s ]
+
+[ 2019-11-27T09:48:01+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0112s ]
+
+[ 2019-11-27T09:48:08+08:00 ] 127.0.0.1 /index.php/Index/ajaxLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000931s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0136s ]
+SQL: SELECT * FROM `user` LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2019-11-27T09:48:24+08:00 ] 127.0.0.1 /index.php/Index/ajaxLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001048s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0605s ]
+SQL: SELECT * FROM `user` LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2019-11-27T09:48:36+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000753s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 24 AND `uid` = 38 LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `cart` SET `num`='13' WHERE `id` = 29 [ RunTime:0.0008s ]
+
+[ 2019-11-27T09:50:00+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 24  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 23  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 20  [ RunTime:0.0002s ]
+
+[ 2019-11-27T19:41:48+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002749s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 6 AND `uid` = 38 LIMIT 1   [ RunTime:0.0217s ]
+SQL: INSERT INTO `cart` (`gid`,`uid`,`num`) VALUES ('6','38','1') [ RunTime:0.0435s ]
+
+[ 2019-11-27T19:42:28+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001058s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 24  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 23  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 20  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 6  [ RunTime:0.0001s ]
+
+[ 2019-11-27T19:43:09+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000610s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0159s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 6  [ RunTime:0.0004s ]
+
+[ 2019-11-27T19:43:34+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000936s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 20  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 6  [ RunTime:0.0002s ]
+
+[ 2019-11-27T19:44:09+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001793s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0246s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 24  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 23  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 20  [ RunTime:0.0006s ]
+
+[ 2019-11-27T19:46:52+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001289s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0135s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 6  [ RunTime:0.0008s ]
+
+[ 2019-11-27T19:47:08+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000859s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0242s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 20  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 6  [ RunTime:0.0008s ]
+
+[ 2019-11-27T19:47:42+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000957s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0117s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 24  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 23  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 20  [ RunTime:0.0002s ]
+
+[ 2019-11-27T19:49:27+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000836s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0694s ]
+
+[ 2019-11-27T19:52:33+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000722s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0060s ]
+
+[ 2019-11-27T19:55:06+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000620s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.1548s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 24  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 23  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 20  [ RunTime:0.0009s ]
+
+[ 2019-11-27T19:55:37+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0133s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 24  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 23  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 20  [ RunTime:0.0003s ]
+
+[ 2019-11-27T19:57:10+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000803s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0677s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 24  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 23  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 20  [ RunTime:0.0007s ]
+
+[ 2019-11-27T19:58:10+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001017s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0067s ]
+NOTIC: [8] Undefined variable: goods_name D:\myTp\mytp\Application\Home\Controller\OrderController.class.php 第 9 行.
+
+[ 2019-11-27T19:58:34+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000601s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0127s ]
+
+[ 2019-11-27T19:59:36+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000753s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0231s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 24  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 23  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 20  [ RunTime:0.0004s ]
+
+[ 2019-11-27T20:01:43+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000620s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0118s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 24  [ RunTime:0.0022s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 23  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 20  [ RunTime:0.0003s ]
+
+[ 2019-11-27T20:03:54+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000995s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0168s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0004s ]
+
+[ 2019-11-27T20:08:05+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001974s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `goods` WHERE (  24 ) AND (  23 ) AND (  20 )  [ RunTime:0.0004s ]
+
+[ 2019-11-27T20:09:36+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000760s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0227s ]
+ERR: 表达式错误:24
+
+[ 2019-11-27T20:11:00+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000825s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 23 LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 20 LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2019-11-27T20:11:57+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000610s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.1406s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 23 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 20 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2019-11-27T20:15:22+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000607s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0128s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 23 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 20 LIMIT 1   [ RunTime:0.0015s ]
+
+[ 2019-11-27T20:16:41+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001145s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0083s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 23 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 20 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2019-11-27T20:17:31+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002528s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0099s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 23 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 20 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2019-11-27T20:18:07+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001390s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 23 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 20 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2019-11-27T20:19:07+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000914s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 23 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 20 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2019-11-27T20:24:21+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0094s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 23 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 20 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029076s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029113s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000643s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000670s ]
+
+[ 2019-11-27T20:24:28+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001354s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0266s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 23 LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 20 LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009463s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009512s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000853s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000889s ]
+
+[ 2019-11-27T20:25:13+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000796s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 23 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 20 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000069s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006695s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006719s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000647s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000670s ]
+
+[ 2019-11-27T20:25:57+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 23 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013673s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013716s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000434s ]
+
+[ 2019-11-27T20:28:11+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 23 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 20 LIMIT 1   [ RunTime:0.0002s ]
+ERR: Too few arguments to function Think\Controller::ajaxReturn(), 0 passed in D:\myTp\mytp\Application\Home\Controller\OrderController.class.php on line 19 and at least 1 expected
+
+[ 2019-11-27T21:56:51+08:00 ] 127.0.0.1 /index.php/Index/ajaxLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000963s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1319s ]
+SQL: SELECT * FROM `user` LIMIT 1   [ RunTime:0.0481s ]
+
+[ 2019-11-27T21:57:33+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001252s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022350s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022393s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000738s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000774s ]
+
+[ 2019-11-27T21:57:43+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000602s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000050s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003447s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003471s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000363s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000380s ]
+
+[ 2019-11-27T21:58:00+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000055s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003564s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003588s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000215s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000230s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000393s ]
+
+[ 2019-11-27T22:01:30+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001494s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0250s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 23 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 20 LIMIT 1   [ RunTime:0.0008s ]
+

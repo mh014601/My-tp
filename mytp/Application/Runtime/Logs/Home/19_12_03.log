@@ -1,0 +1,100 @@
+[ 2019-12-03T18:56:46+08:00 ] 127.0.0.1 /Api/bindNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.103788s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.030305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.030340s ]
+SQL: SHOW COLUMNS FROM `token` [ RunTime:0.0266s ]
+SQL: SELECT * FROM `token` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0165s ]
+NOTIC: [8] Trying to get property 'FromUserName' of non-object D:\myTp\mytp\Application\Home\Controller\ApiController.class.php 第 164 行.
+
+[ 2019-12-03T18:56:47+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+
+[ 2019-12-03T18:58:42+08:00 ] 127.0.0.1 /Api/bindNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000373s ]
+SQL: SHOW COLUMNS FROM `token` [ RunTime:0.0320s ]
+SQL: SELECT * FROM `token` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0137s ]
+NOTIC: [2] Use of undefined constant oCEU5w3qCYXG7F0ib1xEmV_MWJas - assumed 'oCEU5w3qCYXG7F0ib1xEmV_MWJas' (this will throw an Error in a future version of PHP) D:\myTp\mytp\Application\Home\Controller\ApiController.class.php 第 165 行.
+
+[ 2019-12-03T18:58:45+08:00 ] 127.0.0.1 /Api/bindNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000376s ]
+SQL: SHOW COLUMNS FROM `token` [ RunTime:0.0314s ]
+SQL: SELECT * FROM `token` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0149s ]
+NOTIC: [2] Use of undefined constant oCEU5w3qCYXG7F0ib1xEmV_MWJas - assumed 'oCEU5w3qCYXG7F0ib1xEmV_MWJas' (this will throw an Error in a future version of PHP) D:\myTp\mytp\Application\Home\Controller\ApiController.class.php 第 165 行.
+
+[ 2019-12-03T18:59:06+08:00 ] 127.0.0.1 /Api/bindNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000637s ]
+SQL: SHOW COLUMNS FROM `token` [ RunTime:0.0268s ]
+SQL: SELECT * FROM `token` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0214s ]
+
+[ 2019-12-03T18:59:37+08:00 ] 127.0.0.1 /Api/bindNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+SQL: SHOW COLUMNS FROM `token` [ RunTime:0.0260s ]
+SQL: SELECT * FROM `token` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0174s ]
+
+[ 2019-12-03T19:00:33+08:00 ] 127.0.0.1 /Api/bindNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+SQL: SHOW COLUMNS FROM `token` [ RunTime:0.0236s ]
+SQL: SELECT * FROM `token` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0155s ]
+
+[ 2019-12-03T19:02:26+08:00 ] 127.0.0.1 /Api/bindNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000639s ]
+SQL: SHOW COLUMNS FROM `token` [ RunTime:0.0273s ]
+SQL: SELECT * FROM `token` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0150s ]
+
+[ 2019-12-03T19:18:38+08:00 ] 127.0.0.1 /Api/bindNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+SQL: SHOW COLUMNS FROM `token` [ RunTime:0.0453s ]
+SQL: SELECT * FROM `token` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0171s ]
+NOTIC: [8] Trying to get property of non-object D:\myTp\mytp\Application\Home\Controller\ApiController.class.php 第 164 行.
+
+[ 2019-12-03T19:23:53+08:00 ] 127.0.0.1 /Api/bindNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000662s ]
+SQL: SHOW COLUMNS FROM `token` [ RunTime:0.0288s ]
+SQL: SELECT * FROM `token` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0174s ]
+NOTIC: [8] Trying to get property of non-object D:\myTp\mytp\Application\Home\Controller\ApiController.class.php 第 164 行.
+

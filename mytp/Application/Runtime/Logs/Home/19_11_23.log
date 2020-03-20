@@ -1,0 +1,21 @@
+[ 2019-11-23T22:09:31+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0241s ]
+
+[ 2019-11-23T22:09:58+08:00 ] 127.0.0.1 /index.php/Index/ajaxLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001292s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0285s ]
+SQL: SELECT * FROM `user` LIMIT 1   [ RunTime:0.1622s ]
+
+[ 2019-11-23T22:10:37+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000749s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0249s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 20 AND `uid` = 38 LIMIT 1   [ RunTime:0.0008s ]
+SQL: INSERT INTO `cart` (`gid`,`uid`,`num`) VALUES ('20','38','1') [ RunTime:0.1418s ]
+

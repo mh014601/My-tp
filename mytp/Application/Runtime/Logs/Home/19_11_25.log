@@ -1,0 +1,229 @@
+[ 2019-11-25T19:44:06+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000716s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0141s ]
+
+[ 2019-11-25T19:44:12+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000599s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0181s ]
+
+[ 2019-11-25T19:44:13+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0072s ]
+
+[ 2019-11-25T19:44:15+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0075s ]
+
+[ 2019-11-25T19:44:19+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0159s ]
+
+[ 2019-11-25T19:44:24+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0201s ]
+
+[ 2019-11-25T19:44:25+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0088s ]
+
+[ 2019-11-25T19:45:03+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0113s ]
+
+[ 2019-11-25T19:46:52+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0172s ]
+
+[ 2019-11-25T19:47:26+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000624s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0185s ]
+
+[ 2019-11-25T19:47:49+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0102s ]
+
+[ 2019-11-25T19:48:40+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000766s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0162s ]
+
+[ 2019-11-25T20:00:38+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0087s ]
+
+[ 2019-11-25T20:01:01+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000781s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 24 AND `uid` = 38 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `cart` SET `num`='10' WHERE `id` = 29 [ RunTime:0.2936s ]
+
+[ 2019-11-25T20:01:34+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001260s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0182s ]
+
+[ 2019-11-25T20:02:21+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000801s ]
+ERR: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+
+[ 2019-11-25T20:03:01+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001588s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0106s ]
+ERR: 表达式错误:
+
+[ 2019-11-25T20:03:43+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000640s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 0  [ RunTime:0.0004s ]
+
+[ 2019-11-25T20:05:27+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000718s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0153s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0089s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 0 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2019-11-25T20:07:12+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002452s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0128s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0132s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 0  [ RunTime:0.0003s ]
+
+[ 2019-11-25T20:12:40+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001061s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0064s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0053s ]
+
+[ 2019-11-25T20:13:16+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000584s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0133s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0101s ]
+
+[ 2019-11-25T20:14:06+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0075s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0061s ]
+
+[ 2019-11-25T20:16:29+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001008s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0229s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0116s ]
+
+[ 2019-11-25T20:17:02+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001548s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0114s ]
+
+[ 2019-11-25T20:17:21+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000756s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0161s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0086s ]
+
+[ 2019-11-25T20:19:05+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001545s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0140s ]
+
+[ 2019-11-25T20:23:08+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000678s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0068s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 24  [ RunTime:0.0003s ]
+
+[ 2019-11-25T20:24:29+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000719s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0178s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2019-11-25T20:26:13+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000970s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0118s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0138s ]
+ERR: 表达式错误:24
+
+[ 2019-11-25T20:26:44+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007039s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0146s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0134s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 24  [ RunTime:0.0005s ]
+
+[ 2019-11-25T20:31:23+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0143s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0112s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 23 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 20 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2019-11-25T20:31:59+08:00 ] 127.0.0.1 /index.php/Order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001335s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0141s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 24  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 23  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `goods` WHERE `id` = 20  [ RunTime:0.0002s ]
+

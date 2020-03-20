@@ -1,0 +1,1439 @@
+[ 2019-11-12T10:12:44+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+
+[ 2019-11-12T10:53:34+08:00 ] 127.0.0.1 /Home/User/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2019-11-12T10:53:34+08:00 ] 127.0.0.1 /Home/User/css/font-awesome/css/font-awesome.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2019-11-12T10:53:34+08:00 ] 127.0.0.1 /Home/User/images/left-user.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+
+[ 2019-11-12T10:53:34+08:00 ] 127.0.0.1 /Home/User/images/left-head-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+
+[ 2019-11-12T10:53:34+08:00 ] 127.0.0.1 /Home/User/images/user.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2019-11-12T10:53:40+08:00 ] 127.0.0.1 /Home/User/css/font-awesome/css/font-awesome.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2019-11-12T11:42:42+08:00 ] 127.0.0.1 /Admin/Index/%7B%7Basset('Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T11:42:54+08:00 ] 127.0.0.1 /Admin/Index/%7B%7Basset('Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T11:45:47+08:00 ] 127.0.0.1 /Admin/Index/%7B%7Basset('./Public/Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:00:34+08:00 ] 127.0.0.1 /Admin/Index/%7Basset('./Public/Admin/js/jquery.min.js')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:03:48+08:00 ] 127.0.0.1 /Admin/Index/%7Basset('./Public/Admin/js/jquery.min.js')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:04:44+08:00 ] 127.0.0.1 /Admin/Index/%7Basset('./Public/Admin/js/jquery.min.js')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:06:53+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001111s ]
+
+[ 2019-11-12T12:11:02+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2019-11-12T12:15:08+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+
+[ 2019-11-12T12:15:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:15:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/logo.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001073s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:15:11+08:00 ] 127.0.0.1 /index.php/Public/Admin/css/style.css.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2019-11-12T12:15:11+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2019-11-12T12:15:11+08:00 ] 127.0.0.1 /index.php/Public/Admin/images/leftico01.png.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2019-11-12T12:15:11+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:15:11+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/time.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:15:11+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:15:11+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/dp.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:15:11+08:00 ] 127.0.0.1 /index.php/Public/Admin/images/leftico01.png.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2019-11-12T12:15:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:15:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:15:26+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/time.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:15:26+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/dp.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:17:27+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+
+[ 2019-11-12T12:17:28+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001050s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:17:29+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/logo.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:17:29+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003113s ]
+
+[ 2019-11-12T12:17:29+08:00 ] 127.0.0.1 /index.php/Public/Admin/images/leftico01.png.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2019-11-12T12:17:29+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/time.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:17:29+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/dp.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:17:29+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:17:30+08:00 ] 127.0.0.1 /index.php/Public/Admin/css/style.css.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2019-11-12T12:17:30+08:00 ] 127.0.0.1 /index.php/Public/Admin/images/leftico01.png.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+
+[ 2019-11-12T12:17:30+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:21:28+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2019-11-12T12:21:28+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:21:28+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/logo.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:21:28+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+
+[ 2019-11-12T12:21:28+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:21:28+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:21:28+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/time.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:21:28+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/dp.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:21:29+08:00 ] 127.0.0.1 /index.php/Public/Admin/css/style.css.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+
+[ 2019-11-12T12:21:29+08:00 ] 127.0.0.1 /index.php/Public/Admin/images/leftico01.png.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2019-11-12T12:56:21+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2019-11-12T12:56:21+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001721s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:56:22+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/logo.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:56:23+08:00 ] 127.0.0.1 /index.php/Public/Admin/css/style.css.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+
+[ 2019-11-12T12:56:23+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+
+[ 2019-11-12T12:56:23+08:00 ] 127.0.0.1 /index.php/Public/Admin/images/leftico01.png.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+
+[ 2019-11-12T12:56:23+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:56:23+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/time.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:56:23+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:56:24+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/dp.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:59:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:59:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/time.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:59:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:59:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:59:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/time.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:59:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001219s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:59:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/dp.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001529s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:59:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/dp.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:59:07+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
+[ 2019-11-12T12:59:07+08:00 ] 127.0.0.1 /index.php/Public/Admin/images/leftico01.png.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002645s ]
+
+[ 2019-11-12T12:59:07+08:00 ] 127.0.0.1 /index.php/Public/Admin/css/style.css.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2019-11-12T12:59:07+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2019-11-12T12:59:07+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:59:07+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:59:07+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/time.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:59:07+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/logo.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:59:07+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/dp.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:59:07+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:59:08+08:00 ] 127.0.0.1 /index.php/Public/Admin/images/leftico01.png.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2019-11-12T12:59:12+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2019-11-12T12:59:12+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:59:12+08:00 ] 127.0.0.1 /index.php/Public/Admin/images/leftico01.png.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000861s ]
+
+[ 2019-11-12T12:59:12+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/time.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:59:12+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:59:12+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:59:12+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/dp.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:59:13+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/logo.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:59:13+08:00 ] 127.0.0.1 /index.php/Public/Admin/css/style.css.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2019-11-12T12:59:13+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2019-11-12T12:59:13+08:00 ] 127.0.0.1 /index.php/Public/Admin/images/leftico01.png.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+
+[ 2019-11-12T12:59:19+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+
+[ 2019-11-12T12:59:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012207s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:59:19+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2019-11-12T12:59:19+08:00 ] 127.0.0.1 /index.php/Public/Admin/css/style.css.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2019-11-12T12:59:20+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:59:20+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:59:20+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/time.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:59:20+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/dp.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:59:20+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/logo.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T12:59:20+08:00 ] 127.0.0.1 /index.php/Public/Admin/images/leftico01.png.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+
+[ 2019-11-12T13:01:17+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+
+[ 2019-11-12T13:01:18+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:01:18+08:00 ] 127.0.0.1 /index.php/Public/Admin/css/style.css.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+
+[ 2019-11-12T13:01:18+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2019-11-12T13:01:18+08:00 ] 127.0.0.1 /index.php/Public/Admin/images/leftico01.png.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+
+[ 2019-11-12T13:01:18+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:01:18+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/time.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:01:18+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/dp.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:01:18+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:01:18+08:00 ] 127.0.0.1 /index.php/Public/Admin/images/leftico01.png.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+
+[ 2019-11-12T13:01:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/logo.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002707s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:02:08+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+
+[ 2019-11-12T13:02:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/logo.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:02:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:02:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/time.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:02:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:02:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/dp.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:02:08+08:00 ] 127.0.0.1 /index.php/Public/Admin/css/style.css.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+
+[ 2019-11-12T13:02:08+08:00 ] 127.0.0.1 /index.php/Public/Admin/images/leftico01.png.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+
+[ 2019-11-12T13:02:09+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:02:09+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2019-11-12T13:02:09+08:00 ] 127.0.0.1 /index.php/Public/Admin/images/leftico01.png.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2019-11-12T13:06:50+08:00 ] 127.0.0.1 /Admin/Index/%7B/Public/Admin/js/jquery.min.js')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:06:50+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/logo.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:06:51+08:00 ] 127.0.0.1 /index.php/Public/Admin/css/style.css.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2019-11-12T13:06:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:06:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/time.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:06:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/dp.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:06:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:06:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:06:52+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+
+[ 2019-11-12T13:06:52+08:00 ] 127.0.0.1 /index.php/Public/Admin/images/leftico01.png.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+
+[ 2019-11-12T13:14:14+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:14:15+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B/Public/Admin/images/leftico01.png')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:14:15+08:00 ] 127.0.0.1 /index.php/Public/Admin/images/leftico01.png.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+
+[ 2019-11-12T13:14:15+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:14:15+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/time.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:14:15+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:14:15+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/dp.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:14:15+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/logo.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:14:16+08:00 ] 127.0.0.1 /index.php/Public/Admin/css/style.css.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2019-11-12T13:14:16+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+
+[ 2019-11-12T13:14:16+08:00 ] 127.0.0.1 /index.php/Public/Admin/images/leftico01.png.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+
+[ 2019-11-12T13:14:16+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B/Public/Admin/images/leftico01.png')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000945s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:15:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/logo.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004069s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:15:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006032s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:15:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:15:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:15:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/time.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:15:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/dp.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:15:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B/Public/Admin/images/leftico01.png')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:15:54+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2019-11-12T13:15:54+08:00 ] 127.0.0.1 /index.php/Public/Admin/images/leftico01.png.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2019-11-12T13:15:54+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B/Public/Admin/images/leftico01.png')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:16:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B/Public/Admin/images/leftico01.png')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:16:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:16:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/time.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:16:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:16:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:16:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/dp.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:16:54+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000929s ]
+
+[ 2019-11-12T13:16:54+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/logo.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002587s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:16:56+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/time.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:16:56+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:16:56+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001629s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:16:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/dp.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:56:48+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:56:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B/Public/Admin/images/leftico01.png')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:56:50+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/logo.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:56:50+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+
+[ 2019-11-12T13:58:47+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2019-11-12T13:58:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B/Public/Admin/images/leftico01.png')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:58:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:58:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/logo.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T13:58:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/logo.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:02:04+08:00 ] 127.0.0.1 /Public/Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:02:04+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:02:04+08:00 ] 127.0.0.1 /Public/Admin/js/cloud.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:03:53+08:00 ] 127.0.0.1 /Public/Admin/js/cloud.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:03:53+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:03:53+08:00 ] 127.0.0.1 /Public/Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:03:55+08:00 ] 127.0.0.1 /Public/Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:03:55+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:03:55+08:00 ] 127.0.0.1 /Public/Admin/js/cloud.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:03:56+08:00 ] 127.0.0.1 /Public/Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001040s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:03:56+08:00 ] 127.0.0.1 /Public/Admin/js/cloud.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:03:56+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002073s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:03:56+08:00 ] 127.0.0.1 /Public/Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001921s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:03:56+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001975s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:03:56+08:00 ] 127.0.0.1 /Public/Admin/js/cloud.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002566s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:03:58+08:00 ] 127.0.0.1 /Public/Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:03:58+08:00 ] 127.0.0.1 /Public/Admin/js/cloud.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:03:58+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:04:32+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/logo.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:04:32+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+
+[ 2019-11-12T14:04:32+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B/Public/Admin/images/leftico01.png')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:04:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:04:42+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:04:43+08:00 ] 127.0.0.1 /Public/Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002036s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:04:43+08:00 ] 127.0.0.1 /Public/Admin/js/cloud.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:05:43+08:00 ] 127.0.0.1 /Public/Admin/js/cloud.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001548s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:05:43+08:00 ] 127.0.0.1 /Public/Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:05:44+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 5 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:06:07+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
+[ 2019-11-12T14:06:42+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+
+[ 2019-11-12T14:06:53+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+
+[ 2019-11-12T14:09:26+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2019-11-12T14:09:35+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2019-11-12T14:09:37+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2019-11-12T14:09:50+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000227s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+
+[ 2019-11-12T14:09:54+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+
+[ 2019-11-12T14:09:59+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+
+[ 2019-11-12T14:10:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B/Public/Admin/images/leftico01.png')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:10:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:10:04+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/logo.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003666s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:10:04+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000928s ]
+
+[ 2019-11-12T14:10:07+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2019-11-12T14:10:58+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
+[ 2019-11-12T14:16:47+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2019-11-12T14:18:07+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+
+[ 2019-11-12T14:40:21+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2019-11-12T14:42:17+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+
+[ 2019-11-12T14:42:59+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001422s ]
+
+[ 2019-11-12T14:44:22+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001380s ]
+
+[ 2019-11-12T14:44:24+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2019-11-12T14:44:35+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:44:36+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/logo.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:44:36+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2019-11-12T14:44:36+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B/Public/Admin/images/leftico01.png')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:45:12+08:00 ] 127.0.0.1 /index.php/Public/Admin/js/jquery.min.js.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2019-11-12T14:45:12+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B/Public/Admin/images/leftico01.png')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:45:12+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/images/logo.png')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:45:12+08:00 ] 127.0.0.1 /index.php/Admin/Index/%7B%7Basset('Admin/css/style.css')%7D%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+NOTIC: [2] preg_replace(): Compilation failed: unmatched parentheses at offset 6 D:\myTp\mytp\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+
+[ 2019-11-12T14:45:14+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2019-11-12T14:45:17+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+
+[ 2019-11-12T14:45:58+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2019-11-12T14:46:57+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2019-11-12T14:47:12+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+
+[ 2019-11-12T14:47:38+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2019-11-12T14:49:21+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2019-11-12T14:49:35+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2019-11-12T14:53:49+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2019-11-12T14:53:50+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+
+[ 2019-11-12T14:53:51+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+
+[ 2019-11-12T14:53:52+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+
+[ 2019-11-12T14:53:52+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+
+[ 2019-11-12T14:53:52+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+
+[ 2019-11-12T14:53:53+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+
+[ 2019-11-12T14:53:53+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2019-11-12T14:55:13+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+
+[ 2019-11-12T14:55:16+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2019-11-12T14:55:16+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+
+[ 2019-11-12T14:55:17+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2019-11-12T14:55:17+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+
+[ 2019-11-12T14:55:28+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+
+[ 2019-11-12T14:55:59+08:00 ] 127.0.0.1 /Public/Admin/js/jquery.min.js'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+
+[ 2019-11-12T15:24:39+08:00 ] 127.0.0.1 /Home/Index/db
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+

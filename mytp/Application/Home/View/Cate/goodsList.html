@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+    <meta name="renderer" content="webkit|ie-comp|ie-stand">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta charset="utf-8">
+    <title>产品列表</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="Cache-Control" content="no-siteapp">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <js href="__PUBLIC__/Common/jquery.js"/>
+    <js href="__PUBLIC__/Homewx/js/hmt.js"/>
+    <js href="__PUBLIC__/Homewx/js/swipe.js"/>
+    <css href="__PUBLIC__/Homewx/css/base.css"/>
+    <css href="__PUBLIC__/Homewx/css/common.css"/>
+    <css href="__PUBLIC__/Homewx/css/menu_sideslide.css"/>
+</head>
+<body>
+<div class="warp clearfloat">
+    <div class="menu-wrap">
+        <nav class="menu">
+            <div class="icon-list">
+                <foreach name="rows" item="ro">
+                    <a href="javascript:void(0)" onclick="menu({$ro['id']})">
+                        <span>{$ro['cate_name']}</span>
+                    </a>
+                </foreach>
+            </div>
+        </nav>
+        <button class="close-button" id="close-button">Close Menu</button>
+    </div>
+    <!--header star-->
+    <div class="header header3 clearfloat box-s" id="header">
+        <div class="left fl clearfloat">
+            <span class="icon32 menu-button" id="open-button"></span>
+        </div>
+        <div class="search clearfloat fr">
+            <input type="button" id="" value="" class="btn fl" />
+            <input type="text" id="" value="" placeholder="搜索你需要的宝贝" class="text" />
+        </div>
+    </div>
+    <!--header end-->
+    <!--main star-->
+    <div class="clearfloat content-wrap" id="main">
+        <div class="product-list clearfix" id="main1">
+            <foreach name="god" item="fo">
+                <div class="list clearfix fl">
+                    <a href="{:U('Goods/goodsDetail')}?id={$fo['id']}">
+                        <div class="tu">
+                            <span></span>
+                            <img src="__PUBLIC__/Admin/goods/{$fo['goods_pic']}"/>
+                        </div>
+                        <p class="tit">{$fo['goods_name']}</p>
+                        <p class="price">价格:￥{$fo['goods_price']}</p>
+                    </a>
+                </div>
+            </foreach>
+        </div>
+    </div>
+    <script>
+        var str = '';
+        function menu(id) {
+            $.post("{:U('Cate/ajaxCheck')}",{id:id},function (rows) {
+                for (var i in rows){
+                    str += "<div class=\"list clearfix fl\">"
+                    str += "<a href=\"pro-content.html\">"
+                    str += "<div class=\"tu\">"
+                    str += "<span></span>"
+                    str += "<img src=\"__PUBLIC__/Homewx/upload/1.jpg\"/>"
+                    str += "</div>"
+                    str += "<p class=\"tit\">"+rows[i].goods_name+"</p>"
+                    str += "<p class=\"price\">价格：￥"+rows[i].goods_price+"</p>"
+                    str += "</a>"
+                    str += "</div>"
+                }
+                $('#main1').empty();
+                $('#main1').html(str);
+            },'json')
+
+        }
+    </script>
+    <!--main end-->
+    <!--footer star-->
+    <include file="Public/footer" />
+    <!--footer end-->
+</div>
+<js href="__PUBLIC__/Home/js/classie.js"/>
+<js href="__PUBLIC__/Home/js/main.js"/>
+</body>
+</html>

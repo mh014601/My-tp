@@ -1,0 +1,8 @@
+[ 2019-11-29T16:57:20+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.1386s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 10 AND `uid` = 38 LIMIT 1   [ RunTime:0.0003s ]
+SQL: INSERT INTO `cart` (`gid`,`uid`,`num`) VALUES ('10','38','1') [ RunTime:0.0242s ]
+

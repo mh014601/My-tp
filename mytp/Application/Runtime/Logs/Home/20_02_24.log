@@ -1,0 +1,30 @@
+[ 2020-02-24T14:26:28+08:00 ] 127.0.0.1 /Home/Index/login?uname=&upass=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026799s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010478s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.190503s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.190628s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.040437s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.040571s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.028433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.028597s ]
+
+[ 2020-02-24T14:26:37+08:00 ] 127.0.0.1 /Home/Xcx/lunbo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.1408s ]
+SQL: SELECT `id`,`goods_pic` FROM `goods` WHERE `lunbo` = 1  [ RunTime:0.0039s ]
+

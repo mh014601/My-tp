@@ -1,0 +1,56 @@
+[ 2019-12-09T09:47:38+08:00 ] 127.0.0.1 /index.php/Goods/cart.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000429s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.1232s ]
+SQL: SELECT cart.num,cart.uid,cart.gid,goods.goods_name,goods.goods_price,goods.goods_pic,goods.goods_detail,goods.goods_num FROM `cart` INNER JOIN goods ON cart.gid = goods.id  WHERE `uid` = '38'  [ RunTime:0.0916s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000069s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020237s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020268s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000405s ]
+
+[ 2019-12-09T09:47:38+08:00 ] 127.0.0.1 /Public/Home1/images/icon/icon-kin.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2019-12-09T09:47:38+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+
+[ 2019-12-09T09:56:37+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000345s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1106s ]
+SQL: SELECT * FROM `user` WHERE `id` = 38 LIMIT 1   [ RunTime:0.0038s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000343s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000436s ]
+NOTIC: [2] Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) D:\myTp\mytp\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 167 行.
+NOTIC: [2] Illegal string offset 'id' D:\myTp\mytp\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 167 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.130461s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.130522s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000975s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001035s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001647s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001716s ]
+

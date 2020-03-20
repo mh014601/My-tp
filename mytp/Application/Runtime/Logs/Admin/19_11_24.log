@@ -1,0 +1,7 @@
+[ 2019-11-24T17:12:59+08:00 ] 127.0.0.1 /index.php/Admin/Cate/orderList.html
+ERR: 1054:Unknown column 'order.pid' in 'on clause'
+ [ SQL语句 ] : SELECT order.id,order.order_id,user.name,goods.goods_name,order.pnum,add_address.address,order.status,order.pay_type,order.express_type,order.time FROM `order` INNER JOIN user ON order.uid = user.uid INNER JOIN goods ON goods.id = order.pid INNER JOIN add_address ON add_address.id = order.add_id  
+
+[ 2019-11-24T17:13:32+08:00 ] 127.0.0.1 /index.php/Admin/Cate/orderList.html
+ERR: Call to a member function total() on array
+

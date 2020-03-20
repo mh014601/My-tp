@@ -1,0 +1,296 @@
+[ 2019-11-22T09:52:36+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001086s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0190s ]
+
+[ 2019-11-22T09:53:00+08:00 ] 127.0.0.1 /index.php/Index/ajaxLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001558s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0214s ]
+SQL: SELECT * FROM `user` LIMIT 1   [ RunTime:0.1012s ]
+
+[ 2019-11-22T09:53:16+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000759s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0096s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 24 AND `uid` = 38 LIMIT 1   [ RunTime:0.0004s ]
+ERR: Think\Model:increment方法不存在！
+
+[ 2019-11-22T09:56:23+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0249s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 23 AND `uid` = 38 LIMIT 1   [ RunTime:0.0006s ]
+SQL: INSERT INTO `cart` (`gid`,`uid`,`num`) VALUES ('23','38','1') [ RunTime:0.0011s ]
+
+[ 2019-11-22T10:30:58+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.1163s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 24 AND `uid` = 38 LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2019-11-22T10:31:03+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 24 AND `uid` = 38 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2019-11-22T10:31:09+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000963s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 24 AND `uid` = 38 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2019-11-22T10:31:10+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000634s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0127s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 24 AND `uid` = 38 LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2019-11-22T10:31:11+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000823s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0174s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 24 AND `uid` = 38 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2019-11-22T10:31:12+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000862s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 24 AND `uid` = 38 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2019-11-22T10:31:13+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000620s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0127s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 24 AND `uid` = 38 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2019-11-22T10:31:14+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000781s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0214s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 24 AND `uid` = 38 LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2019-11-22T10:31:15+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000801s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0132s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 24 AND `uid` = 38 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2019-11-22T10:31:16+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000618s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 24 AND `uid` = 38 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2019-11-22T10:31:17+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000818s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 24 AND `uid` = 38 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2019-11-22T10:31:18+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000802s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0358s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 24 AND `uid` = 38 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2019-11-22T10:31:20+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0117s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 24 AND `uid` = 38 LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2019-11-22T10:31:40+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000987s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 24 AND `uid` = 38 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2019-11-22T10:32:40+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001303s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 24 AND `uid` = 38 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2019-11-22T10:34:35+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003272s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 24 AND `uid` = 38 LIMIT 1   [ RunTime:0.0003s ]
+ERR: Think\Model:update方法不存在！
+
+[ 2019-11-22T10:35:02+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 24 AND `uid` = 38 LIMIT 1   [ RunTime:0.0003s ]
+ERR: Think\Model:update方法不存在！
+
+[ 2019-11-22T10:37:25+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000620s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0218s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 24 AND `uid` = 38 LIMIT 1   [ RunTime:0.0006s ]
+ERR: Think\Model:update方法不存在！
+
+[ 2019-11-22T10:38:32+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0204s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 24 AND `uid` = 38 LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `cart` SET `num`='5' WHERE `id` = 29 [ RunTime:0.0334s ]
+
+[ 2019-11-22T10:41:44+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000624s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0581s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 24 AND `uid` = 38 LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `cart` SET `num`='7' WHERE `id` = 29 [ RunTime:0.0006s ]
+
+[ 2019-11-22T10:43:45+08:00 ] 127.0.0.1 /index.php/Goods/goodsDetail.html?id=24
+ERR: syntax error, unexpected 'id' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-22T10:45:32+08:00 ] 127.0.0.1 /index.php/Goods/goodsDetail.html?id=24
+ERR: syntax error, unexpected 'id' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-22T10:45:46+08:00 ] 127.0.0.1 /index.php/Goods/goodsDetail.html?id=24
+ERR: syntax error, unexpected 'id' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-22T10:45:47+08:00 ] 127.0.0.1 /index.php/Goods/goodsDetail.html?id=24
+ERR: syntax error, unexpected 'id' (T_STRING), expecting ',' or ')'
+
+[ 2019-11-22T10:56:48+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000592s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 24 AND `uid` = 38 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `cart` SET `num`='8' WHERE `id` = 29 [ RunTime:0.0004s ]
+
+[ 2019-11-22T13:15:55+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000592s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0211s ]
+
+[ 2019-11-22T13:16:11+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0056s ]
+
+[ 2019-11-22T13:17:05+08:00 ] 127.0.0.1 /index.php/Index/ajaxLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000775s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0769s ]
+SQL: SELECT * FROM `user` LIMIT 1   [ RunTime:0.0627s ]
+
+[ 2019-11-22T13:17:07+08:00 ] 127.0.0.1 /index.php/Index/ajaxLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000973s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `user` LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2019-11-22T13:17:29+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000653s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 24 AND `uid` = 38 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `cart` SET `num`='9' WHERE `id` = 29 [ RunTime:0.0005s ]
+
+[ 2019-11-22T13:41:25+08:00 ] 127.0.0.1 /index.php/Goods/cart.html
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+
+[ 2019-11-22T13:41:26+08:00 ] 127.0.0.1 /index.php/Goods/goodsDetail.html?id=24
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+
+[ 2019-11-22T13:46:25+08:00 ] 127.0.0.1 /index.php/Goods/goodsDetail.html?id=24
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+
+[ 2019-11-22T13:46:27+08:00 ] 127.0.0.1 /index.php/Goods/goodsDetail.html?id=24
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+
+[ 2019-11-22T13:46:36+08:00 ] 127.0.0.1 /index.php/Goods/goodsDetail.html?id=24
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+
+[ 2019-11-22T14:55:03+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0275s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 23 AND `uid` = 38 LIMIT 1   [ RunTime:0.0005s ]
+SQL: INSERT INTO `cart` (`gid`,`uid`,`num`) VALUES ('23','38','1') [ RunTime:0.1158s ]
+
+[ 2019-11-22T14:55:59+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0114s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 23 AND `uid` = 38 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `cart` SET `num`='2' WHERE `id` = 32 [ RunTime:0.0142s ]
+
+[ 2019-11-22T14:56:15+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000740s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0261s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 23 AND `uid` = 38 LIMIT 1   [ RunTime:0.0009s ]
+SQL: UPDATE `cart` SET `num`='5' WHERE `id` = 32 [ RunTime:0.0005s ]
+
+[ 2019-11-22T14:58:38+08:00 ] 127.0.0.1 /index.php/Goods/cart.html
+ERR: syntax error, unexpected 'num' (T_STRING), expecting ']'
+
+[ 2019-11-22T15:00:00+08:00 ] 127.0.0.1 /index.php/Goods/cart.html
+ERR: syntax error, unexpected ')', expecting ']'
+
+[ 2019-11-22T15:00:37+08:00 ] 127.0.0.1 /index.php/Goods/cart.html
+ERR: syntax error, unexpected '"]); ?></span>' (T_CONSTANT_ENCAPSED_STRING)
+
+[ 2019-11-22T15:03:32+08:00 ] 127.0.0.1 /index.php/Goods/cart.html
+ERR: 1054:Unknown column 'cart_num' in 'field list'
+ [ SQL语句 ] : SELECT `cart_num`,`cart_uid`,`cart_gid`,goods.goods_name,goods.goods_price,goods.goods_pic,goods.goods_detail,goods.goods_num FROM `cart` INNER JOIN goods ON cart.gid = goods.id  WHERE `uid` = '38' 
+
+[ 2019-11-22T15:51:13+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.1248s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 23 AND `uid` = 38 LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `cart` SET `num`='6' WHERE `id` = 32 [ RunTime:0.0026s ]
+
+[ 2019-11-22T15:51:31+08:00 ] 127.0.0.1 /index.php/Goods/ajaxAddCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000857s ]
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0076s ]
+SQL: SELECT * FROM `cart` WHERE `gid` = 23 AND `uid` = 38 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `cart` SET `num`='8' WHERE `id` = 32 [ RunTime:0.0003s ]
+
